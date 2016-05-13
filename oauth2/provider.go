@@ -1,7 +1,7 @@
 package oauth2
 
 import (
-	"github.com/tamnd/gauth"
+	"github.com/gokrokvertskhov/gauth"
 	"golang.org/x/oauth2"
 )
 
